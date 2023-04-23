@@ -13,5 +13,11 @@ namespace app_expense_tracker.Models
         public string? Icon { get; set; } = "";
         [Column(TypeName = "nvarchar(10)")]
         public string? Type { get; set; } = "Expense";
+        [NotMapped]
+        public string TitleWidthIcon {
+            get {
+                return $"{Icon} {Title}";
+            }
+        }
     }
 }
