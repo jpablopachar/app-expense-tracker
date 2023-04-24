@@ -11110,19 +11110,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jpabl\\.nuget\\packages\\": {}
+    "C:\\Users\\Pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpabl\\Documents\\Aplicaciones\\Csharp\\app-expense-tracker\\app-expense-tracker.csproj",
+      "projectUniqueName": "C:\\Users\\Pc\\Documents\\Aplicaciones\\Csharp\\Normal\\app-expense-tracker\\app-expense-tracker.csproj",
       "projectName": "app-expense-tracker",
-      "projectPath": "C:\\Users\\jpabl\\Documents\\Aplicaciones\\Csharp\\app-expense-tracker\\app-expense-tracker.csproj",
-      "packagesPath": "C:\\Users\\jpabl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpabl\\Documents\\Aplicaciones\\Csharp\\app-expense-tracker\\obj\\",
+      "projectPath": "C:\\Users\\Pc\\Documents\\Aplicaciones\\Csharp\\Normal\\app-expense-tracker\\app-expense-tracker.csproj",
+      "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pc\\Documents\\Aplicaciones\\Csharp\\Normal\\app-expense-tracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jpabl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -11192,7 +11192,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
